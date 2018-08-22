@@ -18,6 +18,3 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 end
-
-BRANDS.each do |brand| 
-  if 
